@@ -19,9 +19,9 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2020-12-02T09:53:58.467",
+      "created": "2020-12-02T10:17:56.39",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-02T09:53:58.467",
+      "updated": "2020-12-02T10:17:56.39",
       "updatedBy": "m.vorobiov@spd-ukraine.com",
       "completions": []
     },
@@ -29,9 +29,9 @@
   },
   "integration": {
     "url": "https://github.com/VorobjovNikoly/Try.git",
-    "user": "Ygr9ewzsKxZjtW5vuCNZaElCcBv3kGA+kKg5IkojPskSic9W20Mo4wchrPdCgppp4S9hnwoqFrJseRfMfrFfX/gS4/VjLcdo+WH1FeJsD93VQJI6PVL2cZghjohC63TsINpJbA2mV+v24HqxE0zKolvMs1hbsIxcYWkOV57bjG3PPYHlLIAesO3xgXdzv/byLVFNyCrvjZ/7LKZIYXId583ECu15RwQiBZ9nGUiuDdcBDKqN1+s0FgXXcc3XGxMsx+WGQvNvY8LVHUMO57tmXNx+S8n7CGcEJW/vpEcsotCmlToUGiALXgzraolx7mso8PlCA2iWzFzunhInQMyVRA==",
-    "password": "lri5mhDtqe91kSDN2rvmYayyR4UZB/8xZdPDEOol6Y30EqYAzSW4vpbBy+YotfDWzcIfZAculzR2GzOvpJjdIKK+u9zUjfXbbALNFKS2i4x9gp3QDUHcBsllLR9mNErWz7sZeAWn3MUXHH83pQZcqrz/NNykTLIiRAStRnoKHex75dyoL2WMa0v8m5C9pe/19tQuNJIaKuQsPEjKvsE33aFaemluoIdwlkHQ/kOx0OCHzirssLj3+ReH3O5sjfYDoPDNpIKQFx0SCUampk3Md38xOPMgt55Az4QTEEv3SpW/phGtM7+ptQN0T6CiC1ZisDcHuK49wr35zw86Xv+5yQ==",
+    "user": "pEZmPEIYcOkb7CKncTN9IPOA4BWY1z4sIdFiVeMyDlaQ43Az3LodjTkA9/HZmQUlhRsh7ny4AX54cCnqQ9PDusbW14DznBpyMQarwIqgKPn+YVXW3N8OssAfzMct2cgShzllibkpvZUwfU1t3LoRuAxgbS+oxyF/ORyvmZWB5i7tMZ62hyOh5DAvfiEj+ATKfbwsjf1X1Gz52jJA/cCYZUqHpEHFmSeXshYfweNYIimJyA5vrd01t+L4cHj8tKJm8JqG/4y4pIBB8gZTu2whCc61UtxR2MwRu7aJZj6ZfWnThfNi6VvhPJ9l4eeP4Sf7BUgjxV/n8DzxYOFJOqO+uA==",
+    "password": "bsYlENwAeW9hqpOiLqDfizO3/DSZaXqblnU2niWgVcQ7MZwCGLbrtuYqNPBjmQgFSwRz2RjjBtdm+OGrKkq1f3IJzs0alTPwiFnU5Ez7tDKglD4fZd5T6tY9vIkxYqIJAUG/o5luhDD3SCKE76DwbzmCvg/jKO6cxmPCi9HlHVOIfq12WvcL2mCr5brp381yAZPLNveGAfWCBMu9Dffv7BuJDB23KJUQpyAkolaNGVP83Qua0B6f1t9dlByNVw3oeF38SAZ8pJ+MUfvFUrdnZUoktAnzWROLCRnz2JfS6EVpKafc84kcc/Wp7r8Aucn+TxDQiM1DF0iJSimTLvKHfw==",
     "integration": true,
-    "status": ""
+    "status": "Object reference not set to an instance of an object."
   }
 }
