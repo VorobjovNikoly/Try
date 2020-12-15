@@ -11,10 +11,10 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2020-12-15T06:15:55.57",
+      "created": "2020-12-15T06:18:14.743",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-15T06:15:55.57",
-      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2020-12-15T06:18:14.743",
+      "updatedBy": "unknown",
       "completions": []
     },
     "alias": ""
@@ -24,6 +24,6 @@
     "user": "PCmENYJEqxIJjWKi5ZZkImyuf3gFvPPAGBv1GdEYdHrq5PGQHUTRHdqnB8EzXBOj4rx2u17S3o23NhHJY8eNcqqkxhIoQN1NKxa9zfTiCSWRTb2JqYH9HjOv9SKYcjzui+WBwBhE8zxLkNRt8lbFYpAR9EqTvRQBaAWb4i8AxccQNpDKn3MgiP7agCKwO2tLAUfaP0hrcrmlUAmmbHvNXWyHRXTmd9QHQprdVsWDFA6i5lru9HkbRR/OffoJ/ELv+g3q1Jps98zdZEQrZYEHnw4K/akAbTBPCwfUE3BEKiVEPZ6Z0dGhIMUwn/WelmaS9UD43+4nOh7KfkGxMjeTmQ==",
     "password": "T3wnixVdGmu6d0H64NuBvJ6t9FaDuKe6SB41jezeuIaFBolwCmXBCJNingMNVnhPkv+245QnnBRSyYrWh1blwQByKPt5qXa8oYZuT7ZLTu52WDATILz1H1Z0fDYJk7pYvCoH7T+WJek92wHKt/oO0TSCEdYBHtP6aIB+UMfmxzoifzf0oyTwoaoiFMPoSyE4q2yp/El5r55SCwD6gpnkXi9nIXNKqwoNpa1uU2kUdJ1enqmzbLwmCp3XAkduJ75W0JJpXdphPTJE5/jpol4Q8cnRSv/CZypKcVDXFftoeQq+6EF/8pZbPnGmbh+sz52AzTPt7aKmOhs978/dYuYI7g==",
     "integration": true,
-    "status": "'C:/Users/M.Vorobiov/AppData/Local/Temp/testDeployStorjeServise' exists and is not an empty directory"
+    "status": ""
   }
 }
